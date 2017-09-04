@@ -1,0 +1,4 @@
+Antwoord op vraag 3: 
+
+Een webservice is elk stuk software dat het internet gebruikt om te communiceren waarbij de data meestal wordt verstuurd via xlm. 
+De SOA is de serverarchitectuur die layout dat de servers hebben om het efficients mogelijk te communiceren. o
